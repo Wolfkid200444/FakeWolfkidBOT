@@ -4,13 +4,14 @@ This is My Todo List
 
 To-do List
 
-[ ] Custom Commands
+[X] Custom Commands
 
-[ ] Get Developerz
+[X] Get Developerz
 
-[ ] 24/7
+[X] 24/7
 
-[ ] Check To-do list Everyday
+[X] Check To-do list Everyday
 
+[X] Rewrite All The Commands
 
 
