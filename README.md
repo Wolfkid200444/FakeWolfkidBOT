@@ -2,9 +2,9 @@
 This is a  Simple Bot that Stole Code From a another bot dont judge me xD
 This is My Todo List
 
-__To-do List__
+*To-do List
 
-[X] Custom Commands
+
 
 [X] Get Developerz
 
@@ -14,4 +14,4 @@ __To-do List__
 
 [X] Rewrite All The Commands And Files
 
-
+[✔] Make it Work
