@@ -1,0 +1,13 @@
+{
+  "name": "WolfkidFake",
+  "description": "Im a Fake Wolfkid that do Better things than wolfkid example say that you shoudl relly sub to him www.youtube.com/c/Wolfkid",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
