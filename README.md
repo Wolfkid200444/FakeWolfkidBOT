@@ -12,6 +12,6 @@ __To-do List__
 
 [X] Check To-do list Everyday
 
-[X] Rewrite All The Commands
+[X] Rewrite All The Commands And Files
 
 
