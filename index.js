@@ -13,10 +13,10 @@ client.on('message', async msg => {
     	msg.channel.send('**__Commands List__** ```[ #info | #help | #version | #changelog | #about ]```'); 
     } else
         if (msg.content === '#about') {
-    	msg.channel.send('**Want to Know More About ***WolfkidFakeBot*** ?**');
+    	msg.channel.send('**Want to Know More About Me ?**');
     } else
         if (msg.content === '#info') {
-    	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__]');
+    	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__] go follos him on https:mobilr.twitter.com/@TheRealWolfkid/[twitter]');
     } else
         if (msg.content === '#changelog') {
     	msg.channel.send('**__Changelog__** ```___```'); 
