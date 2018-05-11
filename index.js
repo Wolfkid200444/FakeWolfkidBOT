@@ -10,10 +10,10 @@ client.on('message', async msg => {
     if(msg.author.bot) return;
     
     if (msg.content === '#help') {
-    	msg.channel.send('**__Commands List__** ```[ #info | #help | #version | #changelog]```'); 
+    	msg.channel.send('**__Commands List__** ```[ #info | #help | #version | #changelog | #about ]```'); 
     } else
-        if (msg.content === 'help') {
-    	msg.channel.send('**__Commands List__** ```[ $info | $help | $version ]```');
+        if (msg.content === '#about') {
+    	msg.channel.send('**Want to Know More About ***WolfkidFakeBot*** ?**');
     } else
         if (msg.content === '#info') {
     	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__]');
