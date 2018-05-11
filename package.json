@@ -1,7 +1,7 @@
 {
-  "name": "ImpladeBot",
+  "name": "WolfkidFake",
   "version": "1.0.0",
-  "description": "A starter Discord bot",
+  "description": "Simple Bot For Some Random User Call Wolfkid",
   "main": "index.js",
   "engines": {
     "node": "10.0.0",
@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImpladeDeveloped/ImpladeBot.git"
+    "url": "git+https://github.com/Wolfkid200444/WolfkidFakeBot.git"
   },
   "keywords": [
     "heroku",
     "discord.js"
   ],
-  "author": "ImpladeDeveloped",
+  "author": "Wolfie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ImpladeDeveloped/ImpladeBot/issues"
+    "url": "https://github.com/Wolfkid200444/WolfkidFakeBot/issues"
   },
   "homepage": "https://github.com/ImpladeDeveloped/ImpladeBot#readme",
   "dependencies": {
