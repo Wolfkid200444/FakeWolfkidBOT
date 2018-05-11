@@ -19,5 +19,5 @@ This is My Todo List
 
 
 Wan to Help me or Code with me Follow me on 
-[Twitter](https://.mobile.twitter.com/@TheRealWolfkid)
-[Youtube](htttps://www.youtube.com/c/Wolfkid)
+## [Twitter](https://.mobile.twitter.com/@TheRealWolfkid)
+## [Youtube](htttps://www.youtube.com/c/Wolfkid)
