@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 client.on('ready', () => {
     client.user.setStatus('dnd');
-    client.user.setActivity('for games!', {type: 'STREAMING'});
+    client.user.setActivity('Minecraft!', {type: 'STREAMING'});
 });
 
 client.on('message', async msg => {
