@@ -12,7 +12,7 @@ client.on('message', async msg => {
     if (msg.content === '$help') {
     	msg.channel.send('**__Commands List__** ```[ $info | $help | $version ]```'); 
     } else
-        if (msg.content === '@WolfKidFake#2042 help') {
+        if (msg.content === '@WolfKidFake help') {
     	msg.channel.send('**__Commands List__** ```[ $info | $help | $version ]```');
     } else
         if (msg.content === '$info') {
