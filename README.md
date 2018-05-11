@@ -2,7 +2,7 @@
 This is a  Simple Bot that Stole Code From a another bot dont judge me xD
 This is My Todo List
 
-To-do List
+__To-do List__
 
 [X] Custom Commands
 
