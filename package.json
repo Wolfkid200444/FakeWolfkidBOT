@@ -1,13 +1,31 @@
 {
-  "name": "WolfkidFake",
-  "description": "Im a Fake Wolfkid that do Better things than wolfkid example say that you shoudl relly sub to him www.youtube.com/c/Wolfkid",
-  "version": "0.0.0",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
+  "name": "ImpladeBot",
+  "version": "1.0.0",
+  "description": "A starter Discord bot",
+  "main": "index.js",
+  "engines": {
+    "node": "10.0.0",
+    "npm": "*"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImpladeDeveloped/ImpladeBot.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "ImpladeDeveloped",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImpladeDeveloped/ImpladeBot/issues"
+  },
+  "homepage": "https://github.com/ImpladeDeveloped/ImpladeBot#readme",
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "discord.js": "11.3.2"
   }
 }
