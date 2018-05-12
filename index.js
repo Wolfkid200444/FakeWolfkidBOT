@@ -28,7 +28,7 @@ client.on('message', async msg => {
         .setColor("#FFFF00")
         .setField("``!help | !changelog | !info | !about``");
         
-        return messages.channel.send(botembed);
+        return msg.channel.send(botembed);
       }
 });
 
