@@ -8,7 +8,7 @@ This is My Todo List
 - [x] Check To-do list Everyday
 - [x] Rewrite All The Commands And Files
 - [x] Make it Work
-- [ ] Learnd to Code
+- [ ] Learn on how to Code
 
 Wan to Help me or Code with me Follow me on 
 ## [Twitter](https://mobile.twitter.com/@TheRealWolfkid)
