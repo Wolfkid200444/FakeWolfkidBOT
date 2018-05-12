@@ -6,30 +6,15 @@ client.on('ready', () => {
     client.user.setActivity('!help**|WolfieBot!', {type: 'STREAMING'});
 });
 
-client.on('message', async msg => {
-    if(msg.author.bot) return;
-    
-    if (msg.content === '!help') {
-    	msg.channel.send('**__Commands List__** ```[ !info | !help | !version | !changelog | !about ]```'); 
-    } else
-        if (msg.content === '!about') {
-    	msg.channel.send('**Want to Know More About Me ?**');
-    } else
-        if (msg.content === '!info') {
-    	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__] go follow him on [Twitter](https//:mobile.twitter.com/@TheRealWolfkid/)');
-    } else
-        if (msg.content === '!changelog') {
-    	msg.channel.send('**__Changelog__** ```___```');
-    } else
-        if (msg.content === '!helpinfo') {
-        
-        let botembed = new Discord.RichEmbed()
-        .setDescription("Help Commands")
-        .setColor("#FFFF00")
-        .setField("``[ !help | !changelog | !info | !about ]``");
-        
-        return msg.channel.send(botembed);
-     }
+bot.on("message", async message => {
+  if(message.author.bot) return;
+  if(message.channel.type === "dm") return;
+
+  let prefix = botconfig.prefix;
+  let messageArray = message.content.split(" ");
+  let cmd = messageArray[0];
+  let args = messageArray.slice(1);
+
 });
 
 client.login(process.env.BOT_TOKEN);
