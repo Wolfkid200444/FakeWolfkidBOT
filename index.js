@@ -21,7 +21,7 @@ client.on('message', async msg => {
         if (msg.content === '!changelog') {
     	msg.channel.send('**__Changelog__** ```___```');
     } else
-        if (msg.content === '!help embed') {
+        if (msg.content === '!helpinfo') {
         
         let botembed = new Discord.RichEmbed()
         .setDescription("Help Commands")
