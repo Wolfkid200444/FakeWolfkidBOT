@@ -29,7 +29,7 @@ client.on('message', async msg => {
         .setField("``[ !help | !changelog | !info | !about ]``");
         
         return msg.channel.send(botembed);
-      }
+     }
 });
 
 client.login(process.env.BOT_TOKEN);
