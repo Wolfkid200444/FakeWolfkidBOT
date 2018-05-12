@@ -6,17 +6,17 @@ This is My Todo List
 
 
 
-[X] Get Developerz
+[✔] Get Developerz
 
-[X] 24/7
+[✔] 24/7
 
-[X] Check To-do list Everyday
+[✔] Check To-do list Everyday
 
-[X] Rewrite All The Commands And Files
+[✔] Rewrite All The Commands And Files
 
 [✔] Make it Work
 
-
+[X] Learnd to Code
 
 Wan to Help me or Code with me Follow me on 
 ## [Twitter](https://.mobile.twitter.com/@TheRealWolfkid)
