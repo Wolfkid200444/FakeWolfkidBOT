@@ -26,7 +26,7 @@ client.on('message', async msg => {
         let botembed = new Discord.RichEmbed()
         .setDescription("Help Commands")
         .setColor("#FFFF00")
-        .setField("``!help | !changelog | !info | !about``");
+        .setField("``[ !help | !changelog | !info | !about ]``");
         
         return msg.channel.send(botembed);
       }
