@@ -19,6 +19,13 @@ ___________________
 ## Social Media
 Want to Help me to Code with me? check out my [Team The FutureDevs](https://github.com/FutureDeveloperZ) and You should check out my [Youtube Channel](www.youtube.com/c/Wolfkid) And My [Twitter](https://mobile.twitter.com/@TheRealWolfkid) Really Follow Me Right Now
 
+
+## Reports or Bugs
+
+Please if you Have Any [Issue Or Bugs click me](https://github.com/Wolfkid200444/FakeWolfkidBOT/issues) or you can go to out [Discord](https://discord.gg/Z42u23M) Server 
+
+
+
  ## Credits
  Thanks to @Wolfkid20044 Is The Owner
  And Contributors Of Making This Bot on how is it Now (Rember The Bot is Still Beta)
