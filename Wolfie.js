@@ -15,7 +15,7 @@ client.on('message', async msg => {
         if (msg.content === '!about') {
     	msg.channel.send('**Want to Know More About Me ?**');
         if (msg.content ==="Yes") {
-        msg.reply('[Replied by !about] Okay. **Omae wa mou shindeiru!**);
+        msg.reply('[Replied by !about] Okay. **Omae wa mou shindeiru!**');
     } else
         if (msg.content === '!info') {
     	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__] go follow him on [Twitter](https//:mobile.twitter.com/@TheRealWolfkid/)');
