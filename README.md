@@ -9,8 +9,13 @@ This is My Todo List
 - [x] Rewrite All The Commands And Files
 - [x] Make it Work
 - [ ] Learn on how to Code
+- [ ] Fix The Bot Code
+___________________
+- [ ] Idk
+- [ ] Get Awsome Custom Comamnds
+- [ ] Out pass my Friends Bots
 
-Wan to Help me or Code with me Follow me on 
-## [Twitter](https://mobile.twitter.com/@TheRealWolfkid)
-## [Youtube](https://www.youtube.com/c/Wolfkid)
-## [Our Discord](https://discord.gg/Z42u23M)
+
+## Social Media
+Wan to Help me or Code with me check out my [Team The FutureDevs](https://github.com/FutureDeveloperZ) and You should check out my [Youtube Channel](www.youtube.com/c/Wolfkid)
+
