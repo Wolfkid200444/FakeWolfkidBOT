@@ -9,11 +9,11 @@ This is My Todo List
 - [x] Rewrite All The Commands And Files
 - [x] Make it Work
 - [ ] Learn on how to Code
-- [ ] Fix The Bot Code
+- [X] Fix The Bot Code
 ___________________
-- [ ] Idk
-- [ ] Get Awsome Custom Comamnds
-- [ ] Out pass my Friends Bots
+- [ ] Make Embeds Commands
+- [ ] Public
+- [X] Out pass my Friends Bots
 
 
 ## Social Media
