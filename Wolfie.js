@@ -14,6 +14,7 @@ client.on('message', async msg => {
     } else
         if (msg.content === '!about') {
     	msg.channel.send('**Want to Know More About Me ?**');
+    } else
         if (msg.content ==="Yes") {
         msg.reply('[Replied by !about] Okay. **Omae wa mou shindeiru!**');
     } else
