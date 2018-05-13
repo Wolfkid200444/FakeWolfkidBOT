@@ -21,15 +21,10 @@ Want to Help me to Code with me? check out my [Team The FutureDevs](https://gith
 
 
 ## Reports or Bugs
-
-Please if you Have Any [Issue Or Bugs click me](https://github.com/Wolfkid200444/FakeWolfkidBOT/issues) or you can go to out [Discord](https://discord.gg/Z42u23M) Server 
+Please if you Have Any [Issue Or Bugs click me](https://github.com/Wolfkid200444/FakeWolfkidBOT/issues) or you can go to out [Discord](https://discord.gg/Z42u23M) server !
 
 
 
  ## Credits
  Thanks to @Wolfkid20044 Is The Owner
- And Contributors Of Making This Bot on how is it Now (Rember The Bot is Still Beta)
-
-
-
-
+ And Contributors Of Making This Bot on how is it Now (Remember the bot is still in beta).
