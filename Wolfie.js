@@ -13,7 +13,7 @@ client.on('message', async msg => {
     	msg.channel.send('**__Commands List__** ```[ !info | !help | !version | !changelog | !about ]```');     
     } else
         if (msg.content === '!about') {
-    	msg.channel.send('**Want to Know More About Me ?** ``__________`` Im a Privet Bot With more Intelligent than The Normal Wolfie Im is Assistant I Help him with a lot of sfuff example tell him tgat bots will rule the world or etc.');
+    	msg.channel.send('**Want to Know More About Me ?** ```__________``` Im a Privet Bot With more Intelligent than The Normal Wolfie Im is Assistant I Help him with a lot of sfuff example tell him tgat bots will rule the world or etc.');
     } else
         if (msg.content ==="Yes") {
         msg.reply('[Replied by !about] Okay. **Omae wa mou shindeiru!**');
