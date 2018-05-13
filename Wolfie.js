@@ -18,7 +18,7 @@ bot.on("message", async message => {
 
     if(cmd === `${prefix}kick`){
 
-    //!kick @daeshan askin for it
+    //This Command is To Kick
 
     let kUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
     if(!kUser) return message.channel.send("Can't find user!");
