@@ -22,11 +22,23 @@ client.on('message', async msg => {
     };
 
     if (msg.content ==="!channel") {
-        msg.reply('Wanna Check out Wolfie Channel? Here is the link www.youtube.com/c/Wolfkid');
+      let channelembed = new Discord.RichEmbed()
+      .setTitle('Wanna Check out Wolfie Channel?')
+      .setURL('https://www.youtube.com/c/Wolfkid')
+      .setColor("#FFFF00")
+
+      return messages.channel.send(channelembed);
     };
 
     if (msg.content === '!info') {
-    	msg.channel.send('**This bot was created on 11 May 2018 by using code with Discord.js!** [Owner: __WolfKid200444__] go follow him on ``____``**Twitter** (https//:mobile.twitter.com/@TheRealWolfkid/)');
+      let infoembed = new Discord.RichEmbed()
+      .setTitle('Information')
+      .setDescription('This bot was created on 11 May 2018 by using code with Discord.js!')
+      .addField('Owner', 'WolfKid200444')
+      .addField('Twitter', 'https//:mobile.twitter.com/@TheRealWolfkid/')
+      .setColor("#FFFF00")
+
+      return messages.channel.send(infoembed);
     };
 
     if (msg.content === '!changelog') {
