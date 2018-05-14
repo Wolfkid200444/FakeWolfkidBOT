@@ -1,5 +1,6 @@
 # WolfkidFakeBot
 This is a simple bot that I stole code from a another bot, don't judge me xD
+This bot is still in beta.
 
 ## To Do List
 - [x] Get Developers
@@ -25,4 +26,3 @@ If you have any issues or bugs [click me](https://github.com/Wolfkid200444/FakeW
 
 ## Credits
 Thanks to @Wolfkid20044 and the contributors for making this bot on how it is now.<br>
-This bot is still in beta.
