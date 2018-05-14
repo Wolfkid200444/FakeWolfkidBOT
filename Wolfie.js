@@ -36,7 +36,7 @@ client.on('message', async message => {
       .setDescription('This bot was created on 11 May 2018 by using code with Discord.js!')
       .addField('Owner', 'WolfKid200444')
       .addField('Twitter', 'https://mobile.twitter.com/@TheRealWolfkid/')
-      .setColor('#FFFF00')
+      .setColor('#FFFF08')
 
       return message.channel.send(infoembed);
     };
