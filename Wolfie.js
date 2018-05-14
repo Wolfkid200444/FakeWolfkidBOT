@@ -56,7 +56,7 @@ client.on('message', async message => {
       let helpembed = new Discord.RichEmbed()
       .setDescription('Help Commands')
       .setColor('#FFFF00')
-      .setField('``!help | !changelog | !info | !about``');
+      .setField('!help-Command', 'Give this help Comamnd')
 
       return message.channel.send(helpembed);
     };
