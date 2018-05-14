@@ -42,7 +42,15 @@ client.on('message', async message => {
     };
 
     if (message.content === '!changelog') {
-    	message.channel.send('**__Changelog__** ```___```*** Bot Version 0.1 : Added Few Commands ***');
+      let changelogembed = new Discord.RichEmbed()
+      .setTitle('Changelog')
+      .setDescription('Check out Whats New on The Bot :D')
+      .addField('May 11 2018 News'. 'Code Added')
+      .addField('May 14 2018 News Huge Update'. 'Added Embeds To Commands And Alot')
+      .setColor('#808000')
+      
+      return message.channel.send(changelogembed);
+
     };
 
     if (message.content === '!help') {
