@@ -12,11 +12,11 @@ client.on('message', async message => {
     if (message.content === '!about') {
       let aboutembed = new Discord.RichEmbed()
       .setTitle('Want to Know More About Me?')
-      .setDescription('Im a Public Bot With more Intelligent than The Normal Wolfie Im is Assistant I Help him with a lot of sfuff example tell him that bots will rule the world or etc.')
+      .setDescription('Ok. Im a Higj Tech Bot That Can do a lot of Stuff Example tell you How many Members are in your Server or in Other Server My Code is a open source you can fine on github i can do more but is time to do other stuff.')
       .setColor('#FFFF00')
       .addField('GitHub', 'https://github.com/Wolfkid200444/FakeWolfkidBOT')
       .addField('Report Issues', 'https://github.com/Wolfkid200444/FakeWolfkidBOT/issues')
-      .addField('Discord', 'https://discord.gg/Z42u23M')
+      .addField('Discord', 'http://bit.ly/FutureDevs')
 
       return message.channel.send(aboutembed);
     };
