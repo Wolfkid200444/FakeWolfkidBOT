@@ -50,7 +50,6 @@ client.on('message', async message => {
       .setColor('#808000')
       
       return message.channel.send(changelogembed);
-
     };
 
     if (message.content === '!help') {
