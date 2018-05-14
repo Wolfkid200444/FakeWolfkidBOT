@@ -44,15 +44,6 @@ client.on('message', async message => {
     if (message.content === '!changelog') {
     	message.channel.send('**__Changelog__** ```___```*** Bot Version 0.1 : Added Few Commands ***');
     };
-
-    if (message.content === '!help') {
-      let helpembed = new Discord.RichEmbed()
-      .setDescription("Help Commands")
-      .setColor("#FFFF00")
-      .setField("``!help | !changelog | !info | !about``");
-
-      return message.channel.send(helpembed);
-    };
 });
 
 client.login(process.env.BOT_TOKEN);
