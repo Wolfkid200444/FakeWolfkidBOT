@@ -6,10 +6,10 @@ client.on('ready', () => {
     client.user.setActivity('My Self been Develop', {type: 'WATCHING'});
 });
 
-client.on('message', async msg => {
-    if(msg.author.bot) return;
+client.on('message', async message => {
+    if(message.author.bot) return;
 
-    if (msg.content === '!about') {
+    if (message.content === '!about') {
       let aboutembed = new Discord.RichEmbed()
       .setTitle('Want to Know More About Me?')
       .setDescription('Im a Public Bot With more Intelligent than The Normal Wolfie Im is Assistant I Help him with a lot of sfuff example tell him that bots will rule the world or etc.')
@@ -18,19 +18,19 @@ client.on('message', async msg => {
       .addField('Report Issues', 'https://github.com/Wolfkid200444/FakeWolfkidBOT/issues')
       .addField('Discord', 'https://discord.gg/Z42u23M')
 
-      return messages.channel.send(aboutembed);
+      return message.channel.send(aboutembed);
     };
 
-    if (msg.content ==="!channel") {
+    if (message.content ==="!channel") {
       let channelembed = new Discord.RichEmbed()
       .setTitle('Wanna Check out Wolfie Channel?')
       .setURL('https://www.youtube.com/c/Wolfkid')
       .setColor("#FFFF00")
 
-      return messages.channel.send(channelembed);
+      return message.channel.send(channelembed);
     };
 
-    if (msg.content === '!info') {
+    if (message.content === '!info') {
       let infoembed = new Discord.RichEmbed()
       .setTitle('Information')
       .setDescription('This bot was created on 11 May 2018 by using code with Discord.js!')
@@ -38,20 +38,20 @@ client.on('message', async msg => {
       .addField('Twitter', 'https//:mobile.twitter.com/@TheRealWolfkid/')
       .setColor("#FFFF00")
 
-      return messages.channel.send(infoembed);
+      return message.channel.send(infoembed);
     };
 
-    if (msg.content === '!changelog') {
-    	msg.channel.send('**__Changelog__** ```___```*** Bot Version 0.1 : Added Few Commands ***');
+    if (message.content === '!changelog') {
+    	message.channel.send('**__Changelog__** ```___```*** Bot Version 0.1 : Added Few Commands ***');
     };
 
-    if (msg.content === '!help embed') {
+    if (message.content === '!help embed') {
       let helpembed = new Discord.RichEmbed()
       .setDescription("Help Commands")
       .setColor("#FFFF00")
       .setField("``!help | !changelog | !info | !about``");
 
-      return messages.channel.send(helpembed);
+      return message.channel.send(helpembed);
     };
 });
 
