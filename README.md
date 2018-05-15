@@ -1,1 +1,1 @@
-## The code for this repository has been moved to [Bot Code](https://github.com/FutureDeveloperZ/FakeWolfkid).
+## The code for this repository has been moved to [FutureDeveloperZ/FakeWolfkid](https://github.com/FutureDeveloperZ/FakeWolfkid).
