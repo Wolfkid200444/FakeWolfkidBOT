@@ -1,1 +1,1 @@
-## We Move to [Future Developers Origination](https://github.com/FutureDeveloperZ/) And Our [Bot Code](https://github.com/FutureDeveloperZ/FakeWolfkid) is There Too So No Point To be Contributing this Check out Our New Place we're we will be [coding](https://github.com/FutureDeveloperZ/FakeWolfkid) :D
+## The code for this repository has been moved to [Bot Code](https://github.com/FutureDeveloperZ/FakeWolfkid).
